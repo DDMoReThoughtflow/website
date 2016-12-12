@@ -1,0 +1,42 @@
+relativeurls = true
+baseurl = "ddmorethoughtflow.github.io"
+title = "DDMoRe Thoughtflow Community website"
+theme = "ghostwriter"
+languageCode = "en-us"
+copyright = "Mike K Smith"
+disqusShortname = "XXX"
+googleAnalytics = "XX-12345678-1"
+publishdir = "docs"
+
+[Author]
+    name = "Mike K Smith"
+    profile = "https://www.linkedin.com/in/mike-k-smith-b200245"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "DDMoRe Thoughtflow"
+    description = "Providing a resource for learning about provenance and workflow capture, associated tools and technologie in the context of model informed drug discovery and development (MID3)."
+    github = "https://github.com/DDMoReThoughtflow"
+    twitter = "https://twitter.com/DDMoRe_IMI"
+    opengraph = true
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "FAQ"
+    url = "/page/faq/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 3
