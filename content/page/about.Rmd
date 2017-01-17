@@ -26,8 +26,8 @@ a controlled vocabulary of provenance. An accompanying white paper will be publi
 [Clinical Pharmacology & Therapeutics: Pharmacometrics & Systems Pharmacology](http://ascpt.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2163-8306/) in the first quarter of 2017.
 
 ### What's next?
-This afternoon, the first kickoff meeting for the DDMoRe Foundation's Community Groups 
-will take place. This is where we hope to recruit our team 
+On 17th January 2017, the first kickoff meeting for the DDMoRe Foundation's 
+Community Groups will take place. This is where we hope to recruit our team.
 
 ### Authors and Contributors
 Justin Wilkins [(kestrel99)](https://github.com/kestrel99)  

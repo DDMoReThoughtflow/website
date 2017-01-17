@@ -1,11 +1,9 @@
-relativeurls = true
-baseurl = "ddmorethoughtflow.github.io"
+baseurl = "http://www.thoughtflow.community"
 title = "DDMoRe Thoughtflow Community Group"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Justin Wilkins"
-disqusShortname = "XXX"
-googleAnalytics = "XX-12345678-1"
+#googleAnalytics = "XX-12345678-1"
 publishdir = "docs"
 
 [Author]
@@ -20,7 +18,7 @@ publishdir = "docs"
     headline = "DDMoRe Thoughtflow"
     description = "Providing a resource for learning about provenance and workflow capture, associated tools and technology in the context of model informed drug discovery and development (MID3)."
     github = "https://github.com/DDMoReThoughtflow"
-    twitter = "https://twitter.com/DDMoRe_IMI"
+    twitter = "https://twitter.com/DDMoRe_FDN"
     opengraph = true
 
 [Permalinks]
