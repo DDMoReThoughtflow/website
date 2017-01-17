@@ -1,5 +1,4 @@
-# website
-Website for Thoughtflow Community Group
+# Thoughtflow Community Group website
 
 ## To make changes to the website using RStudio's blogdown:
 1.	Install the blogdown package from Github: https://github.com/rstudio/blogdown . If you have devtools installed you can type: devtools::install_github('rstudio/blogdown').

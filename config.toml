@@ -1,16 +1,16 @@
 relativeurls = true
 baseurl = "ddmorethoughtflow.github.io"
-title = "DDMoRe Thoughtflow Community website"
+title = "DDMoRe Thoughtflow Community Group"
 theme = "ghostwriter"
 languageCode = "en-us"
-copyright = "Mike K Smith"
+copyright = "Justin Wilkins"
 disqusShortname = "XXX"
 googleAnalytics = "XX-12345678-1"
 publishdir = "docs"
 
 [Author]
-    name = "Mike K Smith"
-    profile = "https://www.linkedin.com/in/mike-k-smith-b200245"
+    name = "Justin Wilkins"
+    profile = "https://www.linkedin.com/in/justinjwilkins"
 
 [Taxonomies]
     tag = "tags"
@@ -18,7 +18,7 @@ publishdir = "docs"
 [Params]
     intro = true
     headline = "DDMoRe Thoughtflow"
-    description = "Providing a resource for learning about provenance and workflow capture, associated tools and technologie in the context of model informed drug discovery and development (MID3)."
+    description = "Providing a resource for learning about provenance and workflow capture, associated tools and technology in the context of model informed drug discovery and development (MID3)."
     github = "https://github.com/DDMoReThoughtflow"
     twitter = "https://twitter.com/DDMoRe_IMI"
     opengraph = true
