@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.thoughtflow.community/2017/01/17/the_kickoff/</loc>
+    <loc>/2017/01/17/the_kickoff/</loc>
     <lastmod>2017-01-17T19:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.thoughtflow.community/page/download/</loc>
+    <loc>/page/download/</loc>
     <lastmod>2017-01-17T19:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.thoughtflow.community/page/about/</loc>
+    <loc>/page/about/</loc>
     <lastmod>2017-01-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.thoughtflow.community/page/faq/</loc>
+    <loc>/page/faq/</loc>
     <lastmod>2017-01-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.thoughtflow.community/2017/01/17/about_thoughtflow_and_this_website/</loc>
+    <loc>/2017/01/17/about_thoughtflow_and_this_website/</loc>
     <lastmod>2017-01-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.thoughtflow.community/tags/about/</loc>
-    <lastmod>2017-01-17T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.thoughtflow.community/</loc>
-    <lastmod>2017-01-17T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.thoughtflow.community/tags/documents/</loc>
-    <lastmod>2017-01-17T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.thoughtflow.community/tags/faq/</loc>
+    <loc>/tags/about/</loc>
     <lastmod>2017-01-17T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.thoughtflow.community/tags/kickoff/</loc>
+    <loc>/</loc>
     <lastmod>2017-01-17T19:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.thoughtflow.community/page/</loc>
+    <loc>/tags/documents/</loc>
     <lastmod>2017-01-17T19:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.thoughtflow.community/post/</loc>
+    <loc>/tags/faq/</loc>
+    <lastmod>2017-01-17T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/kickoff/</loc>
     <lastmod>2017-01-17T19:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.thoughtflow.community/tags/</loc>
+    <loc>/page/</loc>
+    <lastmod>2017-01-17T19:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.thoughtflow.community/tags/website/</loc>
+    <loc>/post/</loc>
+    <lastmod>2017-01-17T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/website/</loc>
     <lastmod>2017-01-17T19:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

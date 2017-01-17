@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DDMoRe Thoughtflow Community Group</title>
-    <link>http://www.thoughtflow.community/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on DDMoRe Thoughtflow Community Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Justin Wilkins</copyright>
     <lastBuildDate>Tue, 17 Jan 2017 19:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.thoughtflow.community/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The kickoff</title>
-      <link>http://www.thoughtflow.community/2017/01/17/the_kickoff/</link>
+      <link>/2017/01/17/the_kickoff/</link>
       <pubDate>Tue, 17 Jan 2017 19:00:00 +0000</pubDate>
       
-      <guid>http://www.thoughtflow.community/2017/01/17/the_kickoff/</guid>
+      <guid>/2017/01/17/the_kickoff/</guid>
       <description>&lt;!-- BLOGDOWN-BODY-BEFORE
 
 /BLOGDOWN-BODY-BEFORE --&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>Thoughtflow documents</title>
-      <link>http://www.thoughtflow.community/page/download/</link>
+      <link>/page/download/</link>
       <pubDate>Tue, 17 Jan 2017 19:00:00 +0000</pubDate>
       
-      <guid>http://www.thoughtflow.community/page/download/</guid>
+      <guid>/page/download/</guid>
       <description>&lt;!-- BLOGDOWN-BODY-BEFORE
 
 /BLOGDOWN-BODY-BEFORE --&gt;
@@ -77,10 +77,10 @@
     
     <item>
       <title>About Thoughtflow</title>
-      <link>http://www.thoughtflow.community/page/about/</link>
+      <link>/page/about/</link>
       <pubDate>Tue, 17 Jan 2017 12:00:00 +0000</pubDate>
       
-      <guid>http://www.thoughtflow.community/page/about/</guid>
+      <guid>/page/about/</guid>
       <description>&lt;!-- BLOGDOWN-BODY-BEFORE
 
 /BLOGDOWN-BODY-BEFORE --&gt;
@@ -133,10 +133,10 @@ Stuart Moodie &lt;a href=&#34;https://github.com/stumoodie&#34;&gt;(stumoodie)&l
     
     <item>
       <title>Frequently asked question (FAQ)</title>
-      <link>http://www.thoughtflow.community/page/faq/</link>
+      <link>/page/faq/</link>
       <pubDate>Tue, 17 Jan 2017 12:00:00 +0000</pubDate>
       
-      <guid>http://www.thoughtflow.community/page/faq/</guid>
+      <guid>/page/faq/</guid>
       <description>&lt;!-- BLOGDOWN-BODY-BEFORE
 
 /BLOGDOWN-BODY-BEFORE --&gt;
@@ -198,10 +198,10 @@ Stuart Moodie &lt;a href=&#34;https://github.com/stumoodie&#34;&gt;(stumoodie)&l
     
     <item>
       <title>Welcome to Thoughtflow!</title>
-      <link>http://www.thoughtflow.community/2017/01/17/about_thoughtflow_and_this_website/</link>
+      <link>/2017/01/17/about_thoughtflow_and_this_website/</link>
       <pubDate>Tue, 17 Jan 2017 12:00:00 +0000</pubDate>
       
-      <guid>http://www.thoughtflow.community/2017/01/17/about_thoughtflow_and_this_website/</guid>
+      <guid>/2017/01/17/about_thoughtflow_and_this_website/</guid>
       <description>&lt;!-- BLOGDOWN-BODY-BEFORE
 
 /BLOGDOWN-BODY-BEFORE --&gt;
