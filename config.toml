@@ -1,4 +1,4 @@
-baseurl = "http://www.thoughtflow.community"
+baseurl = "http://www.thoughtflow.community/"
 title = "DDMoRe Thoughtflow Community Group"
 theme = "ghostwriter"
 languageCode = "en-us"
