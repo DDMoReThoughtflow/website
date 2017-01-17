@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kickoff on DDMoRe Thoughtflow Community Group</title>
+    <link>/tags/kickoff/index.xml</link>
+    <description>Recent content in Kickoff on DDMoRe Thoughtflow Community Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Justin Wilkins</copyright>
+    <atom:link href="/tags/kickoff/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The kickoff</title>
+      <link>/2017/01/17/the_kickoff/</link>
+      <pubDate>Tue, 17 Jan 2017 19:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/17/the_kickoff/</guid>
+      <description>&lt;!-- BLOGDOWN-BODY-BEFORE
+
+/BLOGDOWN-BODY-BEFORE --&gt;
+
+&lt;div id=&#34;the-community-group-has-kicked-off&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Community Group has kicked off!&lt;/h2&gt;
+&lt;p&gt;Thanks to everyone who joined us this afternoon - we hope you found it inspiring! Keen to join our Community? Please &lt;a href=&#34;https://nl.surveymonkey.com/r/XS7HGR5&#34;&gt;fill out the survey&lt;/a&gt; so we can get in touch!&lt;/p&gt;
+&lt;p&gt;In the meantime, have a look at the &lt;a href=&#34;../../res/DDMoRe_Thoughtflow_PAGE_final.pdf&#34;&gt;PAGE presentation&lt;/a&gt; and the &lt;a href=&#34;../../res/Capturing_Pharmacometrics_Workflow_Concepts_with_PROV-O_311016.pdf&#34;&gt;draft ontology specification&lt;/a&gt; for more info on Thoughtflow. More to come soon!&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;!-- BLOGDOWN-HEAD
+
+
+
+
+
+
+/BLOGDOWN-HEAD --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

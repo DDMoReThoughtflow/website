@@ -1,0 +1,11 @@
+---
+title: "The kickoff"
+author: "Justin Wilkins"
+date: 2017-01-17T19:00:00Z
+tags: ["Kickoff"]
+output: html_document
+---
+## The Community Group has kicked off!
+Thanks to everyone who joined us this afternoon - we hope you found it inspiring! Keen to join our Community? Please [fill out the survey](https://nl.surveymonkey.com/r/XS7HGR5) so we can get in touch!
+
+In the meantime, have a look at the [PAGE presentation](/res/DDMoRe_Thoughtflow_PAGE_final.pdf) and the [draft ontology specification](/res/Capturing_Pharmacometrics_Workflow_Concepts_with_PROV-O_311016.pdf) for more info on Thoughtflow. More to come soon!

@@ -1,0 +1,15 @@
+---
+title: "Thoughtflow documents"
+author: "Justin Wilkins & Mike K Smith"
+date: 2017-01-17T19:00:00Z
+tags: ["Documents", "website"]
+output: html_document
+---
+## Documents
+Here you can find documentation related the Thoughtflow Community Group.
+
+### [Draft ontology specification](/res/Capturing_Pharmacometrics_Workflow_Concepts_with_PROV-O_311016.pdf)
+This document outlines the Thoughtflow ontology as at 31 October 2016, including notes of implementation. 
+
+### [Thoughtflow presentation at PAGE 25 in Lisbon, June 2016](/res/DDMoRe_Thoughtflow_PAGE_final.pdf)
+A comprehensive overview of the Thoughtflow idea, and its implementation to date.
