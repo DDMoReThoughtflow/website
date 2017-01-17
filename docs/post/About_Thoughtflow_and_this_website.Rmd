@@ -20,20 +20,20 @@ activities, and agents), querying and manipulation of provenance information
 from a database of provenance information.
 
 ### Where can I find details about provenance, PROV-O and Thoughtflow?
-The IMI DDMoRe project has produced a [draft technical document](Capturing_Pharmacometrics_Workflow_Concepts_with_PROV-O_311016.pdf) about the use of provenance capture
+The IMI DDMoRe project has produced a [draft technical document](/res/Capturing_Pharmacometrics_Workflow_Concepts_with_PROV-O_311016.pdf) about the use of provenance capture
 using the [PROV-O ontology](https://www.w3.org/TR/prov-o/) as the basis for 
 a controlled vocabulary of provenance. An accompanying white paper will be published in
-[http://ascpt.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2163-8306/](Clinical Pharmacology & Therapeutics: Pharmacometrics & Systems Pharmacology) in the first quarter of 2017.
+[Clinical Pharmacology & Therapeutics: Pharmacometrics & Systems Pharmacology](http://ascpt.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2163-8306/) in the first quarter of 2017.
 
 ### What's next?
 This afternoon, the first kickoff meeting for the DDMoRe Foundation's Community Groups 
 will take place. This is where we hope to recruit our team 
 
 ### Authors and Contributors
-Justin Wilkins [@kestrel99](https://github.com/kestrel99)
-Mike K Smith [@MikeKSmith](https://github.com/MikeKSmith)  
-Ed Watson [@tactmaster](https://github.com/tactmaster)  
-Stuart Moodie [@stumoodie](https://github.com/stumoodie)
+Justin Wilkins [(kestrel99)](https://github.com/kestrel99)   
+Mike K Smith [(MikeKSmith)](https://github.com/MikeKSmith)  
+Ed Watson [(tactmaster)](https://github.com/tactmaster)  
+Stuart Moodie [(stumoodie)](https://github.com/stumoodie)
 
 ### Support or Contact
 Issues, bugs, feature requests, and suggestions can be logged via 

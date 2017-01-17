@@ -1,3 +1,4 @@
+relativeurls = true
 baseurl = "http://www.thoughtflow.community/"
 title = "DDMoRe Thoughtflow Community Group"
 theme = "ghostwriter"
@@ -30,11 +31,17 @@ publishdir = "docs"
     weight = 1
 
 [[menu.main]]
+    name = "Documents"
+    url = "/page/docs/"
+    weight = 2
+    
+[[menu.main]]
     name = "FAQ"
     url = "/page/faq/"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "About"
     url = "/page/about/"
-    weight = 3
+    weight = 4
+

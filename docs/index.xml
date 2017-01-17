@@ -2,20 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DDMoRe Thoughtflow Community Group</title>
-    <link>http://www.thoughtflow.community/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on DDMoRe Thoughtflow Community Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Justin Wilkins</copyright>
-    <lastBuildDate>Tue, 17 Jan 2017 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.thoughtflow.community/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2017 19:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The kickoff</title>
+      <link>/2017/01/17/the_kickoff/</link>
+      <pubDate>Tue, 17 Jan 2017 19:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/17/the_kickoff/</guid>
+      <description>&lt;!-- BLOGDOWN-BODY-BEFORE
+
+/BLOGDOWN-BODY-BEFORE --&gt;
+
+&lt;div id=&#34;the-community-group-has-kicked-off&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Community Group has kicked off!&lt;/h2&gt;
+&lt;p&gt;Thanks to everyone who joined us this afternoon - we hope you found it inspiring! Keen to join our Community? Please &lt;a href=&#34;https://nl.surveymonkey.com/r/XS7HGR5&#34;&gt;fill out the survey&lt;/a&gt; so we can get in touch!&lt;/p&gt;
+&lt;p&gt;In the meantime, have a look at the &lt;a href=&#34;./res/DDMoRe_Thoughtflow_PAGE_final.pdf&#34;&gt;PAGE presentation&lt;/a&gt; and the &lt;a href=&#34;./res/Capturing_Pharmacometrics_Workflow_Concepts_with_PROV-O_311016.pdf&#34;&gt;draft ontology specification&lt;/a&gt; for more info on Thoughtflow. More to come soon!&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;!-- BLOGDOWN-HEAD
+
+
+
+
+
+
+/BLOGDOWN-HEAD --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thoughtflow documents</title>
+      <link>/page/docs/</link>
+      <pubDate>Tue, 17 Jan 2017 19:00:00 +0000</pubDate>
+      
+      <guid>/page/docs/</guid>
+      <description>&lt;!-- BLOGDOWN-BODY-BEFORE
+
+/BLOGDOWN-BODY-BEFORE --&gt;
+
+&lt;div id=&#34;documents&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documents&lt;/h2&gt;
+&lt;p&gt;Here you can find documentation related the Thoughtflow Community Group.&lt;/p&gt;
+&lt;div id=&#34;draft-ontology-specification&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;a href=&#34;./res/Capturing_Pharmacometrics_Workflow_Concepts_with_PROV-O_311016.pdf&#34;&gt;Draft ontology specification&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This document outlines the Thoughtflow ontology as at 31 October 2016, including notes of implementation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;thoughtflow-presentation-at-page-25-in-lisbon-june-2016&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;a href=&#34;./res/DDMoRe_Thoughtflow_PAGE_final.pdf&#34;&gt;Thoughtflow presentation at PAGE 25 in Lisbon, June 2016&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;A comprehensive overview of the Thoughtflow idea, and its implementation to date.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;!-- BLOGDOWN-HEAD
+
+
+
+
+
+
+/BLOGDOWN-HEAD --&gt;
+</description>
+    </item>
     
     <item>
       <title>About Thoughtflow</title>
-      <link>http://www.thoughtflow.community/page/about/</link>
+      <link>/page/about/</link>
       <pubDate>Tue, 17 Jan 2017 12:00:00 +0000</pubDate>
       
-      <guid>http://www.thoughtflow.community/page/about/</guid>
+      <guid>/page/about/</guid>
       <description>&lt;!-- BLOGDOWN-BODY-BEFORE
 
 /BLOGDOWN-BODY-BEFORE --&gt;
@@ -54,7 +119,10 @@ Stuart Moodie &lt;a href=&#34;https://github.com/stumoodie&#34;&gt;(stumoodie)&l
 &lt;/div&gt;
 
 
+
 &lt;!-- BLOGDOWN-HEAD
+
+
 
 
 
@@ -65,10 +133,10 @@ Stuart Moodie &lt;a href=&#34;https://github.com/stumoodie&#34;&gt;(stumoodie)&l
     
     <item>
       <title>Frequently asked question (FAQ)</title>
-      <link>http://www.thoughtflow.community/page/faq/</link>
+      <link>/page/faq/</link>
       <pubDate>Tue, 17 Jan 2017 12:00:00 +0000</pubDate>
       
-      <guid>http://www.thoughtflow.community/page/faq/</guid>
+      <guid>/page/faq/</guid>
       <description>&lt;!-- BLOGDOWN-BODY-BEFORE
 
 /BLOGDOWN-BODY-BEFORE --&gt;
@@ -116,7 +184,10 @@ Stuart Moodie &lt;a href=&#34;https://github.com/stumoodie&#34;&gt;(stumoodie)&l
 &lt;/div&gt;
 
 
+
 &lt;!-- BLOGDOWN-HEAD
+
+
 
 
 
@@ -127,10 +198,10 @@ Stuart Moodie &lt;a href=&#34;https://github.com/stumoodie&#34;&gt;(stumoodie)&l
     
     <item>
       <title>Welcome to Thoughtflow!</title>
-      <link>http://www.thoughtflow.community/2017/01/17/about_thoughtflow_and_this_website/</link>
+      <link>/2017/01/17/about_thoughtflow_and_this_website/</link>
       <pubDate>Tue, 17 Jan 2017 12:00:00 +0000</pubDate>
       
-      <guid>http://www.thoughtflow.community/2017/01/17/about_thoughtflow_and_this_website/</guid>
+      <guid>/2017/01/17/about_thoughtflow_and_this_website/</guid>
       <description>&lt;!-- BLOGDOWN-BODY-BEFORE
 
 /BLOGDOWN-BODY-BEFORE --&gt;
@@ -144,7 +215,7 @@ Stuart Moodie &lt;a href=&#34;https://github.com/stumoodie&#34;&gt;(stumoodie)&l
 &lt;/div&gt;
 &lt;div id=&#34;where-can-i-find-details-about-provenance-prov-o-and-thoughtflow&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Where can I find details about provenance, PROV-O and Thoughtflow?&lt;/h3&gt;
-&lt;p&gt;The IMI DDMoRe project has produced a &lt;a href=&#34;Capturing_Pharmacometrics_Workflow_Concepts_with_PROV-O_311016.pdf&#34;&gt;draft technical document&lt;/a&gt; about the use of provenance capture using the &lt;a href=&#34;https://www.w3.org/TR/prov-o/&#34;&gt;PROV-O ontology&lt;/a&gt; as the basis for a controlled vocabulary of provenance. An accompanying white paper will be published in &lt;a href=&#34;Clinical%20Pharmacology%20&amp;amp;%20Therapeutics:%20Pharmacometrics%20&amp;amp;%20Systems%20Pharmacology&#34;&gt;http://ascpt.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2163-8306/&lt;/a&gt; in the first quarter of 2017.&lt;/p&gt;
+&lt;p&gt;The IMI DDMoRe project has produced a &lt;a href=&#34;./res/Capturing_Pharmacometrics_Workflow_Concepts_with_PROV-O_311016.pdf&#34;&gt;draft technical document&lt;/a&gt; about the use of provenance capture using the &lt;a href=&#34;https://www.w3.org/TR/prov-o/&#34;&gt;PROV-O ontology&lt;/a&gt; as the basis for a controlled vocabulary of provenance. An accompanying white paper will be published in &lt;a href=&#34;http://ascpt.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2163-8306/&#34;&gt;Clinical Pharmacology &amp;amp; Therapeutics: Pharmacometrics &amp;amp; Systems Pharmacology&lt;/a&gt; in the first quarter of 2017.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;whats-next&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;What’s next?&lt;/h3&gt;
@@ -152,9 +223,10 @@ Stuart Moodie &lt;a href=&#34;https://github.com/stumoodie&#34;&gt;(stumoodie)&l
 &lt;/div&gt;
 &lt;div id=&#34;authors-and-contributors&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Authors and Contributors&lt;/h3&gt;
-&lt;p&gt;Justin Wilkins &lt;span class=&#34;citation&#34;&gt;[@kestrel99]&lt;/span&gt;(&lt;a href=&#34;https://github.com/kestrel99&#34; class=&#34;uri&#34;&gt;https://github.com/kestrel99&lt;/a&gt;) Mike K Smith &lt;span class=&#34;citation&#34;&gt;[@MikeKSmith]&lt;/span&gt;(&lt;a href=&#34;https://github.com/MikeKSmith&#34; class=&#34;uri&#34;&gt;https://github.com/MikeKSmith&lt;/a&gt;)&lt;br /&gt;
-Ed Watson &lt;span class=&#34;citation&#34;&gt;[@tactmaster]&lt;/span&gt;(&lt;a href=&#34;https://github.com/tactmaster&#34; class=&#34;uri&#34;&gt;https://github.com/tactmaster&lt;/a&gt;)&lt;br /&gt;
-Stuart Moodie &lt;span class=&#34;citation&#34;&gt;[@stumoodie]&lt;/span&gt;(&lt;a href=&#34;https://github.com/stumoodie&#34; class=&#34;uri&#34;&gt;https://github.com/stumoodie&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Justin Wilkins &lt;a href=&#34;https://github.com/kestrel99&#34;&gt;(kestrel99)&lt;/a&gt;&lt;br /&gt;
+Mike K Smith &lt;a href=&#34;https://github.com/MikeKSmith&#34;&gt;(MikeKSmith)&lt;/a&gt;&lt;br /&gt;
+Ed Watson &lt;a href=&#34;https://github.com/tactmaster&#34;&gt;(tactmaster)&lt;/a&gt;&lt;br /&gt;
+Stuart Moodie &lt;a href=&#34;https://github.com/stumoodie&#34;&gt;(stumoodie)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;support-or-contact&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Support or Contact&lt;/h3&gt;
@@ -168,7 +240,10 @@ Stuart Moodie &lt;span class=&#34;citation&#34;&gt;[@stumoodie]&lt;/span&gt;(&lt
 &lt;/div&gt;
 
 
+
 &lt;!-- BLOGDOWN-HEAD
+
+
 
 
 
