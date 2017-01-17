@@ -32,7 +32,7 @@ publishdir = "docs"
 
 [[menu.main]]
     name = "Documents"
-    url = "/page/docs/"
+    url = "/page/download/"
     weight = 2
     
 [[menu.main]]
