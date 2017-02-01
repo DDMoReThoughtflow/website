@@ -1,0 +1,14 @@
+---
+title: "Interest in Thoughtflow..."
+author: "Justin Wilkins"
+date: 2017-02-01T10:00:00Z
+tags: ["Interest","website"]
+output: html_document
+---
+## Interest in Thoughtflow...
+We're delighted to see the interest in Thoughtflow from the community at large! Thanks to everyone who has expressed interest. We'll soon be ready to schedule our first meeting - there'll be a Doodle coming soon. 
+
+For those not able to join the kickoff meeting in January, the slides presented are available online at [ddmore.wpengine.com/community-groups](https://ddmore.wpengine.com/community-groups/). Registration is [still open](https://www.surveymonkey.com/r/XS7HGR5), but please sign up before Friday 3 February if you'd like to come to the first meeting.
+
+See you soon!
+

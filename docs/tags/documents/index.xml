@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documents on DDMoRe Thoughtflow Community Group</title>
-    <link>/tags/documents/index.xml</link>
+    <link>http://www.thoughtflow.community/tags/documents/index.xml</link>
     <description>Recent content in Documents on DDMoRe Thoughtflow Community Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Justin Wilkins</copyright>
-    <atom:link href="/tags/documents/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.thoughtflow.community/tags/documents/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Thoughtflow documents</title>
-      <link>/page/download/</link>
+      <link>http://www.thoughtflow.community/page/download/</link>
       <pubDate>Tue, 17 Jan 2017 19:00:00 +0000</pubDate>
       
-      <guid>/page/download/</guid>
+      <guid>http://www.thoughtflow.community/page/download/</guid>
       <description>&lt;!-- BLOGDOWN-BODY-BEFORE
 
 /BLOGDOWN-BODY-BEFORE --&gt;
