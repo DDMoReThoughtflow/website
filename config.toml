@@ -4,7 +4,7 @@ title = "DDMoRe Thoughtflow Community Group"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Justin Wilkins"
-#googleAnalytics = "XX-12345678-1"
+googleAnalytics = "UA-91241151-1"
 publishdir = "docs"
 
 [Author]
@@ -43,5 +43,4 @@ publishdir = "docs"
 [[menu.main]]
     name = "About"
     url = "/page/about/"
-    weight = 4
-
+weight = 4

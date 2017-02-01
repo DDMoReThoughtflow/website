@@ -1,0 +1,83 @@
+relativeurls = true
+baseurl = "http://www.thoughtflow.community/"
+title = "DDMoRe Thoughtflow Community Group"
+theme = "hugo-tranquilpeak-theme"
+languageCode = "en-US"
+MetaDataFormat = "toml"
+copyright = "Justin Wilkins"
+disqusShortname = "ddmore-thoughtflow"
+paginate = 5
+#PaginatePath ="/"
+googleAnalytics = "UA-91241151-1"
+publishdir = "docs"
+
+[Author]
+    name = "Justin Wilkins"
+    profile = "https://www.linkedin.com/in/justinjwilkins"
+    twitter = "DD_Thoughtflow"
+#name = "Firstname Lastname"
+  bio = "Super bio with markdown support **COOL**"
+  job = "Your job title"
+location = "France"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    #author = "Justin Wilkins"
+    dateFormat = "2 January 2006"
+    sidebarBehavior = 1
+    intro = true
+    headline = "DDMoRe Thoughtflow"
+    tagline = "Redefining workflows in pharmacometrics"
+    description = "Providing a resource for learning about provenance and workflow capture, associated tools and technology in the context of model informed drug discovery and development (MID3)."
+    github = "https://github.com/DDMoReThoughtflow"
+    twitter = "https://twitter.com/DD_Thoughtflow"
+    opengraph = true
+    ganalytics = "UA-91241151-1"
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    identifier = "Blog"
+    name = "Blog"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "Documents"
+    name = "Documents"
+    url = "/page/download/"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-book\"></i>"
+    weight = 2
+    
+[[menu.main]]
+    identifier = "FAQ"
+    name = "FAQ"
+    url = "/page/faq/"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+    weight = 3
+
+[[menu.main]]
+    identifier = "About"
+    name = "About"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-info\"></i>"
+    url = "/page/about/"
+    weight = 4
+
+[[menu.links]]
+  weight = 0
+  identifier = "github"
+  name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+  url = "https://github.com/DDMoReThoughtflow"
+  
+[[menu.links]]
+  weight = 1
+  identifier = "twitter"
+  name = "Twitter"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
+url = "https://twitter.com/DD_Thoughtflow"
+
