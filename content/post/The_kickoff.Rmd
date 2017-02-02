@@ -2,7 +2,7 @@
 title: "The kickoff"
 author: "Justin Wilkins"
 date: 2017-01-17T19:00:00Z
-tags: ["Kickoff","website"]
+tags: ["kickoff","blog"]
 output: html_document
 ---
 ## The Community Group has kicked off!

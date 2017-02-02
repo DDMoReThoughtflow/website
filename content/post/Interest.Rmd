@@ -1,8 +1,8 @@
 ---
-title: "Interest in Thoughtflow..."
+title: "Interest in Thoughtflow is building!"
 author: "Justin Wilkins"
 date: 2017-02-01T10:00:00Z
-tags: ["Interest","website"]
+tags: ["blog","interest"]
 output: html_document
 ---
 ## Interest in Thoughtflow...
