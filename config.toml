@@ -22,8 +22,8 @@ publishdir = "docs"
     location = "Earth"
     site_description = "Providing a resource for learning about provenance and workflow capture, associated tools and technology in the context of model informed drug discovery and development (MID3)."
     copyright  = "(c) 2017 DDMoRe Thoughtflow Community Group"
-    avatar = "css/images/avatar.png"
-    logo = "css/images/logo.png"
+    avatar = "css/images/thoughtflow.png"
+    logo = "css/images/thoughtflow.png"
     disable_mathjax = false # set to true to disable MathJax
 
     # Format dates with Go's time formatting
