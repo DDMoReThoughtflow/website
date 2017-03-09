@@ -1,0 +1,20 @@
+---
+title: "And we're off"
+author: "Justin Wilkins"
+date: 2017-03-09T10:00:00Z
+tags: ["kickoff","blog"]
+output: html_document
+---
+## A good start
+After a quiet start, we had a good kickoff discussion yesterday. There seems to be a lot of interest in Thoughtflow in the community, and it's going to be great to see where it leads us! The slides from yesterday are up [here](/res/DDMoRe_Thoughtflow_Kickoff_Meeting_080317.pdf).
+
+## Some ideas
+At the outset there were some good suggestions from the inaugural group. Using the data analysis plan - the bedrock upon which any pharmacometrics analysis is based - to provide a framework for a Thoughtflow-based modeling project is something we had thought of before, but was previously put on the back burner in favour of a more observational paradigm. From initial feedback, perhaps it needs to come back into the plan.
+
+The involvement of regulators in the group was brought up as something of paramount importance, and it is indeed. We'll have to do some active outreach to see if we can make this happen. 
+
+Finally, the point was made that it's all very nice to talk about ideas, but what people really want to see before getting actively involved is Thoughtflow in action, or at least what it might look like in action. That's something we'll have to set up for next time, but  in the meantime, here's a [video](https://www.scinteco.com/index.php/2016/09/18/ddmore-workpackage-thoughtflow/) from our friends at scinteco!
+
+## Next time
+Thanks to everyone who joined for the TC, and especially to those who agreed to be actively involved going forward. Expect a Doodle for the next meeting to arrive shortly.
+
