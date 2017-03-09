@@ -1,5 +1,5 @@
 ---
-title: "And we're off"
+title: "First meeting"
 author: "Justin Wilkins"
 date: 2017-03-09T10:00:00Z
 tags: ["kickoff","blog"]
@@ -8,7 +8,7 @@ output: html_document
 ## A good start
 After a quiet start, we had a good kickoff discussion yesterday. There seems to be a lot of interest in Thoughtflow in the community, and it's going to be great to see where it leads us! The slides from yesterday are up [here](/res/DDMoRe_Thoughtflow_Kickoff_Meeting_080317.pdf).
 
-## Some ideas
+## Some ideas and feedback
 At the outset there were some good suggestions from the inaugural group. Using the data analysis plan - the bedrock upon which any pharmacometrics analysis is based - to provide a framework for a Thoughtflow-based modeling project is something we had thought of before, but was previously put on the back burner in favour of a more observational paradigm. From initial feedback, perhaps it needs to come back into the plan.
 
 The involvement of regulators in the group was brought up as something of paramount importance, and it is indeed. We'll have to do some active outreach to see if we can make this happen. 
