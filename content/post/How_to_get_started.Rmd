@@ -5,7 +5,7 @@ date: 2017-04-04T14:30:00Z
 tags: ["start","blog","gui","demo"]
 output: html_document
 ---
-## Getting started with Thoughtflow
+## Setting up the GUI demo
 So this Thoughtflow thing is interesting, right? Lots of potential, but... is there any substance? Or is it just a bunch of hot air coming from two and half years of a bunch of European modelers shooting the breeze for an hour every week?
 
 There's still a long way to go, but we have things to show.
@@ -26,7 +26,15 @@ to start the server. Without closing the command window, open a browser and poin
 * manager (password: manager)
 * scientist (password: scientist)
 
-These are designed to illustrate the subtle differences in functionality. We have included a very simple test project in the demonstration engine toshow how the system works - have a play around!
+These are designed to illustrate the subtle differences in functionality. We have included a very simple test project in the demonstration engine to show how the system works - have a play around!
 
-It's quite limited at the moment, put together just to show what the interface might look like, and to visualize our thinking. Tell us what you think!
+It's quite limited at the moment, put together just to show what the interface might look like, and to visualize our thinking. Tell us what you think! There's some more detailed documentation in /DDMoRe-BWF-Main and DDMoRe-BWF-Main/doc if you'd like to take a deeper dive into the GUI demo.
+
+## Setting up Eclipse
+
+If you want to have a deeper delve into the inner workings of the system, you're going to need Eclipse. Start by fetching the Eclipse Neon installer from [here](http://www.eclipse.org/downloads/). Run it, and select Eclipse IDE for Java Developers.
+
+When Eclipse has finished installing, launch it, skip the splash page, and select Open --> Open Projects from File System --> DDMoRe-BWF-Main. Wait for all the GUI projects to load in (takes a while for Maven to update project configs), and you'll be good to start poking around inside the system. Fair warning: if you're not a Java developer, the learning curve gets a bit steep at this point... 
+
+
 

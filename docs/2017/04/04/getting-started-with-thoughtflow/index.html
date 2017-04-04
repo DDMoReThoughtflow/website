@@ -21,7 +21,7 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
     <meta property="og:title" content="Getting started with Thoughtflow" />
-<meta property="og:description" content="Getting started with ThoughtflowSo this Thoughtflow thing is interesting, right? Lots of potential, but… is there any substance? Or is it just a bunch of hot air coming from two and half years of a bunch of European modelers shooting the breeze for an hour every week?
+<meta property="og:description" content="Setting up the GUI demoSo this Thoughtflow thing is interesting, right? Lots of potential, but… is there any substance? Or is it just a bunch of hot air coming from two and half years of a bunch of European modelers shooting the breeze for an hour every week?
 There’s still a long way to go, but we have things to show.
 If you’d like to see, the first thing you need to do is go along to our site on GitHub and download a few things." />
 <meta property="og:type" content="article" />
@@ -45,13 +45,13 @@ If you’d like to see, the first thing you need to do is go along to our site o
     
     
 <meta itemprop="name" content="Getting started with Thoughtflow">
-<meta itemprop="description" content="Getting started with ThoughtflowSo this Thoughtflow thing is interesting, right? Lots of potential, but… is there any substance? Or is it just a bunch of hot air coming from two and half years of a bunch of European modelers shooting the breeze for an hour every week?
+<meta itemprop="description" content="Setting up the GUI demoSo this Thoughtflow thing is interesting, right? Lots of potential, but… is there any substance? Or is it just a bunch of hot air coming from two and half years of a bunch of European modelers shooting the breeze for an hour every week?
 There’s still a long way to go, but we have things to show.
 If you’d like to see, the first thing you need to do is go along to our site on GitHub and download a few things.">
 
 
 <meta itemprop="dateModified" content="2017-04-04T14:30:00&#43;00:00" />
-<meta itemprop="wordCount" content="346">
+<meta itemprop="wordCount" content="479">
 
 
 
@@ -65,7 +65,7 @@ If you’d like to see, the first thing you need to do is go along to our site o
 
 <meta name="twitter:text:title" content="Getting started with Thoughtflow"/>
 <meta name="twitter:title" content="Getting started with Thoughtflow"/>
-<meta name="twitter:description" content="Getting started with ThoughtflowSo this Thoughtflow thing is interesting, right? Lots of potential, but… is there any substance? Or is it just a bunch of hot air coming from two and half years of a bunch of European modelers shooting the breeze for an hour every week?
+<meta name="twitter:description" content="Setting up the GUI demoSo this Thoughtflow thing is interesting, right? Lots of potential, but… is there any substance? Or is it just a bunch of hot air coming from two and half years of a bunch of European modelers shooting the breeze for an hour every week?
 There’s still a long way to go, but we have things to show.
 If you’d like to see, the first thing you need to do is go along to our site on GitHub and download a few things."/>
 <meta name="twitter:site" content="@DD_Thoughtflow"/>
@@ -300,10 +300,10 @@ If you’d like to see, the first thing you need to do is go along to our site o
             <i class="fa fa-calendar"></i>
             <time datetime="2017-04-04 14:30:00 &#43;0000 UTC" itemprop="datePublished">2017-04-04</time>
             &middot;
-            346
+            479
             words
             &middot;
-            2
+            3
             minute read
         </div>
         
@@ -343,8 +343,8 @@ If you’d like to see, the first thing you need to do is go along to our site o
 
 <!-- BLOGDOWN-BODY-BEFORE -->
 <!-- /BLOGDOWN-BODY-BEFORE -->
-<div id="getting-started-with-thoughtflow" class="section level2">
-<h2>Getting started with Thoughtflow</h2>
+<div id="setting-up-the-gui-demo" class="section level2">
+<h2>Setting up the GUI demo</h2>
 <p>So this Thoughtflow thing is interesting, right? Lots of potential, but… is there any substance? Or is it just a bunch of hot air coming from two and half years of a bunch of European modelers shooting the breeze for an hour every week?</p>
 <p>There’s still a long way to go, but we have things to show.</p>
 <p>If you’d like to see, the first thing you need to do is go along to <a href="https://github.com/DDMoReThoughtflow">our site on GitHub</a> and download a few things. You can download from GitHub a few different ways, but the easiest is to go to <a href="https://github.com/DDMoReThoughtflow/ThoughtflowGUI">ThoughtflowGUI</a> and click on the green “Clone or Download” button on the top right of the page. If you have git, you can just use the link that appears when you click on the green button to clone the repo on your local machine. If not, just download a zipped copy instead, and unpack it into an empty folder on a drive with lots of space. Before you start, make sure you have a recent version of <a href="https://java.com/en/download/">Java</a> installed. No Java, no Thoughtflow. (At least for now.)</p>
@@ -362,8 +362,13 @@ If you’d like to see, the first thing you need to do is go along to our site o
 <li>manager (password: manager)</li>
 <li>scientist (password: scientist)</li>
 </ul>
-<p>These are designed to illustrate the subtle differences in functionality. We have included a very simple test project in the demonstration engine toshow how the system works - have a play around!</p>
-<p>It’s quite limited at the moment, put together just to show what the interface might look like, and to visualize our thinking. Tell us what you think!</p>
+<p>These are designed to illustrate the subtle differences in functionality. We have included a very simple test project in the demonstration engine to show how the system works - have a play around!</p>
+<p>It’s quite limited at the moment, put together just to show what the interface might look like, and to visualize our thinking. Tell us what you think! There’s some more detailed documentation in /DDMoRe-BWF-Main and DDMoRe-BWF-Main/doc if you’d like to take a deeper dive into the GUI demo.</p>
+</div>
+<div id="setting-up-eclipse" class="section level2">
+<h2>Setting up Eclipse</h2>
+<p>If you want to have a deeper delve into the inner workings of the system, you’re going to need Eclipse. Start by fetching the Eclipse Neon installer from <a href="http://www.eclipse.org/downloads/">here</a>. Run it, and select Eclipse IDE for Java Developers.</p>
+<p>When Eclipse has finished installing, launch it, skip the splash page, and select Open –&gt; Open Projects from File System –&gt; DDMoRe-BWF-Main. Wait for all the GUI projects to load in (takes a while for Maven to update project configs), and you’ll be good to start poking around inside the system. Fair warning: if you’re not a Java developer, the learning curve gets a bit steep at this point…</p>
 </div>
 
             </div>
