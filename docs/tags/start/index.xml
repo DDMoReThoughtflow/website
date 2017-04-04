@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Start on DDMoRe Thoughtflow Community Group</title>
+    <link>http://www.thoughtflow.community/tags/start/index.xml</link>
+    <description>Recent content in Start on DDMoRe Thoughtflow Community Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2017 DDMoRe Thoughtflow Community Group</copyright>
+    <atom:link href="http://www.thoughtflow.community/tags/start/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Getting started with Thoughtflow</title>
+      <link>http://www.thoughtflow.community/2017/04/04/getting-started-with-thoughtflow</link>
+      <pubDate>Tue, 04 Apr 2017 14:30:00 +0000</pubDate>
+      
+      <guid>http://www.thoughtflow.community/2017/04/04/getting-started-with-thoughtflow</guid>
+      <description>&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;!-- BLOGDOWN-BODY-BEFORE --&gt;
+&lt;!-- /BLOGDOWN-BODY-BEFORE --&gt;
+&lt;div id=&#34;getting-started-with-thoughtflow&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Getting started with Thoughtflow&lt;/h2&gt;
+&lt;p&gt;So this Thoughtflow thing is interesting, right? Lots of potential, but… is there any substance? Or is it just a bunch of hot air coming from two and half years of a bunch of European modelers shooting the breeze for an hour every week?&lt;/p&gt;
+&lt;p&gt;There’s still a long way to go, but we have things to show.&lt;/p&gt;
+&lt;p&gt;If you’d like to see, the first thing you need to do is go along to &lt;a href=&#34;https://github.com/DDMoReThoughtflow&#34;&gt;our site on GitHub&lt;/a&gt; and download a few things. You can download from GitHub a few different ways, but the easiest is to go to &lt;a href=&#34;https://github.com/DDMoReThoughtflow/ThoughtflowGUI&#34;&gt;ThoughtflowGUI&lt;/a&gt; and click on the green “Clone or Download” button on the top right of the page. If you have git, you can just use the link that appears when you click on the green button to clone the repo on your local machine. If not, just download a zipped copy instead, and unpack it into an empty folder on a drive with lots of space. Before you start, make sure you have a recent version of &lt;a href=&#34;https://java.com/en/download/&#34;&gt;Java&lt;/a&gt; installed. No Java, no Thoughtflow. (At least for now.)&lt;/p&gt;
+&lt;p&gt;Now you’ll need to open a command window in DDMoRe-BWF-Distribution/dist/bin. If you have Java 8 or newer and are running under Windows, you’ll need to enter&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;set _JAVA_OPTIONS=-Xmx2048M&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;at the command prompt to ensure the Thoughtflow demo server will start. Afterwards, or if you have a less recent version of Java installed, enter&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;startup.bat&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;to start the server. Without closing the command window, open a browser and point it at &lt;a href=&#34;http://localhost:8080/bwf/&#34; class=&#34;uri&#34;&gt;http://localhost:8080/bwf/&lt;/a&gt;. If all has gone well, the Thoughtflow login page will open. You have access to three test accounts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;admin (password: admin)&lt;/li&gt;
+&lt;li&gt;manager (password: manager)&lt;/li&gt;
+&lt;li&gt;scientist (password: scientist)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are designed to illustrate the subtle differences in functionality. We have included a very simple test project in the demonstration engine toshow how the system works - have a play around!&lt;/p&gt;
+&lt;p&gt;It’s quite limited at the moment, put together just to show what the interface might look like, and to visualize our thinking. Tell us what you think!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -16,10 +16,11 @@
       <pubDate>Tue, 17 Jan 2017 19:00:00 +0000</pubDate>
       
       <guid>http://www.thoughtflow.community/page/download/</guid>
-      <description>&lt;!-- BLOGDOWN-BODY-BEFORE
+      <description>&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
 
-/BLOGDOWN-BODY-BEFORE --&gt;
-
+&lt;!-- BLOGDOWN-BODY-BEFORE --&gt;
+&lt;!-- /BLOGDOWN-BODY-BEFORE --&gt;
 &lt;div id=&#34;documents&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documents&lt;/h2&gt;
 &lt;p&gt;Here you can find documentation related the Thoughtflow Community Group.&lt;/p&gt;
@@ -32,17 +33,6 @@
 &lt;p&gt;A comprehensive overview of the Thoughtflow idea, and its implementation to date.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-
-
-
-&lt;!-- BLOGDOWN-HEAD
-
-
-
-
-
-
-/BLOGDOWN-HEAD --&gt;
 </description>
     </item>
     
@@ -52,10 +42,11 @@
       <pubDate>Tue, 17 Jan 2017 12:00:00 +0000</pubDate>
       
       <guid>http://www.thoughtflow.community/page/about/</guid>
-      <description>&lt;!-- BLOGDOWN-BODY-BEFORE
+      <description>&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
 
-/BLOGDOWN-BODY-BEFORE --&gt;
-
+&lt;!-- BLOGDOWN-BODY-BEFORE --&gt;
+&lt;!-- /BLOGDOWN-BODY-BEFORE --&gt;
 &lt;div id=&#34;welcome-to-the-ddmore-thoughtflow-community-group&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Welcome to the DDMoRe Thoughtflow Community Group!&lt;/h2&gt;
 &lt;p&gt;This website serves as the home for the Thoughtflow Community Group, including all of our code and resources for anyone wishing to learn about provenance and workflow capture, associated tools and technologies in the context of model informed drug discovery and development (MID3). Thoughtflow was initially developed as part of the &lt;a href=&#34;http://ddmore.eu/product/pharmacometric-workflow&#34;&gt;IMI DDMoRe project&lt;/a&gt;.&lt;/p&gt;
@@ -88,17 +79,6 @@ Stuart Moodie &lt;a href=&#34;https://github.com/stumoodie&#34;&gt;(stumoodie)&l
 &lt;p&gt;The research leading to these results received support from the &lt;a href=&#34;http://www.imi.europa.eu/&#34;&gt;Innovative Medicines Initiative Joint Undertaking&lt;/a&gt; under grant agreement no 115156, resources of which are composed of financial contribution from the &lt;a href=&#34;https://ec.europa.eu/research/fp7/index_en.cfm&#34;&gt;European Union’s Seventh Framework Programme (FP7/2007-2013)&lt;/a&gt; and &lt;a href=&#34;https://www.efpia.eu&#34;&gt;EFPIA&lt;/a&gt; companies’ in-kind contribution. The DDMoRe project was also financially supported by contributions from academic and SME partners.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-
-
-
-&lt;!-- BLOGDOWN-HEAD
-
-
-
-
-
-
-/BLOGDOWN-HEAD --&gt;
 </description>
     </item>
     
@@ -108,10 +88,11 @@ Stuart Moodie &lt;a href=&#34;https://github.com/stumoodie&#34;&gt;(stumoodie)&l
       <pubDate>Tue, 17 Jan 2017 12:00:00 +0000</pubDate>
       
       <guid>http://www.thoughtflow.community/page/faq/</guid>
-      <description>&lt;!-- BLOGDOWN-BODY-BEFORE
+      <description>&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
 
-/BLOGDOWN-BODY-BEFORE --&gt;
-
+&lt;!-- BLOGDOWN-BODY-BEFORE --&gt;
+&lt;!-- /BLOGDOWN-BODY-BEFORE --&gt;
 &lt;div id=&#34;what-does-thoughtflow-mean&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;What does Thoughtflow mean?&lt;/h2&gt;
 &lt;p&gt;Put simply, Thoughtflow is the name we have given to a set of standards developed by the DDMoRe consortium to facilitate the capture, storage, and reporting of knowledge (including assumptions and decisions) in the context of model-informed drug discovery and development (MID3), as well as to support reproducibility. Eventually, it might be the name of the tool we plan to create.&lt;/p&gt;
@@ -153,17 +134,6 @@ Stuart Moodie &lt;a href=&#34;https://github.com/stumoodie&#34;&gt;(stumoodie)&l
 &lt;p&gt;Issues, bugs, feature requests, suggestions can be logged via the &lt;a href=&#34;https://github.com/DDMoReThoughtflow/website/issues&#34;&gt;Github Issues page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Please label your item with “Website”, “provr”, “GUI”, “store-server” or “infrastructure” and the type of issue (“bug”,“enhancement”,“help wanted”, “invalid”,“question”) so that we can direct it to the right place for action.&lt;/p&gt;
 &lt;/div&gt;
-
-
-
-&lt;!-- BLOGDOWN-HEAD
-
-
-
-
-
-
-/BLOGDOWN-HEAD --&gt;
 </description>
     </item>
     

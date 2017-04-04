@@ -15,10 +15,11 @@
       <pubDate>Tue, 17 Jan 2017 19:00:00 +0000</pubDate>
       
       <guid>http://www.thoughtflow.community/page/download/</guid>
-      <description>&lt;!-- BLOGDOWN-BODY-BEFORE
+      <description>&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
 
-/BLOGDOWN-BODY-BEFORE --&gt;
-
+&lt;!-- BLOGDOWN-BODY-BEFORE --&gt;
+&lt;!-- /BLOGDOWN-BODY-BEFORE --&gt;
 &lt;div id=&#34;documents&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documents&lt;/h2&gt;
 &lt;p&gt;Here you can find documentation related the Thoughtflow Community Group.&lt;/p&gt;
@@ -31,17 +32,6 @@
 &lt;p&gt;A comprehensive overview of the Thoughtflow idea, and its implementation to date.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-
-
-
-&lt;!-- BLOGDOWN-HEAD
-
-
-
-
-
-
-/BLOGDOWN-HEAD --&gt;
 </description>
     </item>
     

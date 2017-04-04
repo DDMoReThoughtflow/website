@@ -1,0 +1,32 @@
+---
+title: "Getting started with Thoughtflow"
+author: "Justin Wilkins"
+date: 2017-04-04T14:30:00Z
+tags: ["start","blog","gui","demo"]
+output: html_document
+---
+## Getting started with Thoughtflow
+So this Thoughtflow thing is interesting, right? Lots of potential, but... is there any substance? Or is it just a bunch of hot air coming from two and half years of a bunch of European modelers shooting the breeze for an hour every week?
+
+There's still a long way to go, but we have things to show.
+
+If you'd like to see, the first thing you need to do is go along to [our site on GitHub](https://github.com/DDMoReThoughtflow) and download a few things. You can download from GitHub a few different ways, but the easiest is to go to [ThoughtflowGUI](https://github.com/DDMoReThoughtflow/ThoughtflowGUI) and click on the green "Clone or Download" button on the top right of the page. If you have git, you can just use the link that appears when you click on the green button to clone the repo on your local machine. If not, just download a zipped copy instead, and unpack it into an empty folder on a drive with lots of space. Before you start, make sure you have a recent version of [Java](https://java.com/en/download/) installed. No Java, no Thoughtflow. (At least for now.)
+
+Now you'll need to open a command window in DDMoRe-BWF-Distribution/dist/bin. If you have Java 8 or newer and are running under Windows, you'll need to enter
+
+> set _JAVA_OPTIONS=-Xmx2048M
+
+at the command prompt to ensure the Thoughtflow demo server will start. Afterwards, or if you have a less recent version of Java installed, enter
+
+> startup.bat
+
+to start the server. Without closing the command window, open a browser and point it at [http://localhost:8080/bwf/](http://localhost:8080/bwf/). If all has gone well, the Thoughtflow login page will open. You have access to three test accounts: 
+
+* admin (password: admin)
+* manager (password: manager)
+* scientist (password: scientist)
+
+These are designed to illustrate the subtle differences in functionality. We have included a very simple test project in the demonstration engine toshow how the system works - have a play around!
+
+It's quite limited at the moment, put together just to show what the interface might look like, and to visualize our thinking. Tell us what you think!
+

@@ -1,0 +1,35 @@
+---
+title: "Getting started with Thoughtflow"
+author: "Justin Wilkins"
+date: 2017-04-04T14:30:00Z
+tags: ["start","blog","gui","demo"]
+output: html_document
+---
+
+<!-- BLOGDOWN-HEAD -->
+<!-- /BLOGDOWN-HEAD -->
+
+<!-- BLOGDOWN-BODY-BEFORE -->
+<!-- /BLOGDOWN-BODY-BEFORE -->
+<div id="getting-started-with-thoughtflow" class="section level2">
+<h2>Getting started with Thoughtflow</h2>
+<p>So this Thoughtflow thing is interesting, right? Lots of potential, but… is there any substance? Or is it just a bunch of hot air coming from two and half years of a bunch of European modelers shooting the breeze for an hour every week?</p>
+<p>There’s still a long way to go, but we have things to show.</p>
+<p>If you’d like to see, the first thing you need to do is go along to <a href="https://github.com/DDMoReThoughtflow">our site on GitHub</a> and download a few things. You can download from GitHub a few different ways, but the easiest is to go to <a href="https://github.com/DDMoReThoughtflow/ThoughtflowGUI">ThoughtflowGUI</a> and click on the green “Clone or Download” button on the top right of the page. If you have git, you can just use the link that appears when you click on the green button to clone the repo on your local machine. If not, just download a zipped copy instead, and unpack it into an empty folder on a drive with lots of space. Before you start, make sure you have a recent version of <a href="https://java.com/en/download/">Java</a> installed. No Java, no Thoughtflow. (At least for now.)</p>
+<p>Now you’ll need to open a command window in DDMoRe-BWF-Distribution/dist/bin. If you have Java 8 or newer and are running under Windows, you’ll need to enter</p>
+<blockquote>
+<p>set _JAVA_OPTIONS=-Xmx2048M</p>
+</blockquote>
+<p>at the command prompt to ensure the Thoughtflow demo server will start. Afterwards, or if you have a less recent version of Java installed, enter</p>
+<blockquote>
+<p>startup.bat</p>
+</blockquote>
+<p>to start the server. Without closing the command window, open a browser and point it at <a href="http://localhost:8080/bwf/" class="uri">http://localhost:8080/bwf/</a>. If all has gone well, the Thoughtflow login page will open. You have access to three test accounts:</p>
+<ul>
+<li>admin (password: admin)</li>
+<li>manager (password: manager)</li>
+<li>scientist (password: scientist)</li>
+</ul>
+<p>These are designed to illustrate the subtle differences in functionality. We have included a very simple test project in the demonstration engine toshow how the system works - have a play around!</p>
+<p>It’s quite limited at the moment, put together just to show what the interface might look like, and to visualize our thinking. Tell us what you think!</p>
+</div>

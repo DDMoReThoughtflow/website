@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head>
     <title>DDMoRe Thoughtflow Community Group</title>
-    <meta name="generator" content="Hugo 0.18.1" />
+    <meta name="generator" content="Hugo 0.19" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="DDMore Thoughtflow Community Group">
@@ -29,7 +29,9 @@
 <meta property="og:url" content="http://www.thoughtflow.community/" />
 
 
-<meta property="og:updated_time" content="2017-03-09T10:00:00&#43;00:00"/>
+
+<meta property="og:updated_time" content="2017-04-04T14:30:00&#43;00:00"/>
+
 
 
 
@@ -175,12 +177,12 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        4
+        6
         <span>Posts</span>
       </div>
       <div class="article-info-block">
         
-          6
+          9
         
         <span>
             Tags
@@ -262,6 +264,155 @@
             </a>
 
             <header class="article-header">
+    <a href="http://www.thoughtflow.community/2017/04/04/getting-started-with-thoughtflow">
+    <h1 class="article-title" itemprop="name">
+        Getting started with Thoughtflow
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2017-04-04 14:30:00 &#43;0000 UTC" itemprop="datePublished">2017-04-04</time>
+            &middot;
+            346
+            words
+            &middot;
+            2
+            minute read
+        </div>
+        
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="http://www.thoughtflow.community/tags/start">start</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="http://www.thoughtflow.community/tags/blog">blog</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="http://www.thoughtflow.community/tags/gui">gui</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="http://www.thoughtflow.community/tags/demo">demo</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <p>
+                    Getting started with Thoughtflow
+So this Thoughtflow thing is interesting, right? Lots of potential, but… is there any substance? Or is it just a bunch of hot air coming from two and half years of a bunch of European modelers shooting the breeze for an hour every week?
+There’s still a long way to go, but we have things to show.
+If you’d like to see, the first thing you need to do is go along to our site on GitHub and download a few things.
+                    <br>
+                </p>
+                <p class="article-more-link">
+                    <a href="http://www.thoughtflow.community/2017/04/04/getting-started-with-thoughtflow">
+                        Read more
+                    </a>
+                </p>
+            </div>
+            <footer class="article-footer">
+    <a data-url="http://www.thoughtflow.community/2017/04/04/getting-started-with-thoughtflow" data-id="c5f4a151212bec9e5acbe16713c9efb2" class="article-share-link">
+        <i class="fa fa-share"></i>
+        Share
+    </a>
+    
+    <a href="http://www.thoughtflow.community/2017/04/04/getting-started-with-thoughtflow#disqus_thread" class="article-comment-link">
+        Comments
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+        </div>
+    </article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+            </a>
+
+            <header class="article-header">
     <a href="http://www.thoughtflow.community/2017/03/09/first-meeting">
     <h1 class="article-title" itemprop="name">
         First meeting
@@ -319,7 +470,7 @@ At the outset there were some good suggestions from the inaugural group. Using t
                 </p>
             </div>
             <footer class="article-footer">
-    <a data-url="http://www.thoughtflow.community/2017/03/09/first-meeting" data-id="a8d89ad40694db7a93088e6b1baa1860" class="article-share-link">
+    <a data-url="http://www.thoughtflow.community/2017/03/09/first-meeting" data-id="f5e6691e553dd54010b1cfecae29da0d" class="article-share-link">
         <i class="fa fa-share"></i>
         Share
     </a>
@@ -459,7 +610,7 @@ For those not able to join the kickoff meeting in January, the slides presented 
                 </p>
             </div>
             <footer class="article-footer">
-    <a data-url="http://www.thoughtflow.community/2017/02/01/interest-in-thoughtflow-is-building" data-id="b79819f1b77ea3cff74fb42a8d49094d" class="article-share-link">
+    <a data-url="http://www.thoughtflow.community/2017/02/01/interest-in-thoughtflow-is-building" data-id="591f7a6b2e3ab2e6e1a2b31933260f59" class="article-share-link">
         <i class="fa fa-share"></i>
         Share
     </a>
@@ -599,7 +750,7 @@ In the meantime, have a look at the PAGE presentation and the draft ontology spe
                 </p>
             </div>
             <footer class="article-footer">
-    <a data-url="http://www.thoughtflow.community/2017/01/17/the-kickoff" data-id="94e157ba88417fda63fd2f2bba44461f" class="article-share-link">
+    <a data-url="http://www.thoughtflow.community/2017/01/17/the-kickoff" data-id="7929409e3239594fb8cb598ee1ae13a2" class="article-share-link">
         <i class="fa fa-share"></i>
         Share
     </a>
@@ -744,12 +895,134 @@ Thoughtflow is a combination of workflow capture (inputs to outputs), provenance
                 </p>
             </div>
             <footer class="article-footer">
-    <a data-url="http://www.thoughtflow.community/2017/01/17/welcome-to-thoughtflow" data-id="6f2adc1e95e1277c5065efd902b4ebcf" class="article-share-link">
+    <a data-url="http://www.thoughtflow.community/2017/01/17/welcome-to-thoughtflow" data-id="6ffa267d4467b6396446c93aeadf0341" class="article-share-link">
         <i class="fa fa-share"></i>
         Share
     </a>
     
     <a href="http://www.thoughtflow.community/2017/01/17/welcome-to-thoughtflow#disqus_thread" class="article-comment-link">
+        Comments
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+        </div>
+    </article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+            </a>
+
+            <header class="article-header">
+    <a href="http://www.thoughtflow.community/post/">
+    <h1 class="article-title" itemprop="name">
+        Posts
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2017-04-04 14:30:00 &#43;0000 UTC" itemprop="datePublished">2017-04-04</time>
+            &middot;
+            0
+            words
+            &middot;
+            0
+            minute read
+        </div>
+        
+        
+
+        
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <p>
+                    
+                    <br>
+                </p>
+                <p class="article-more-link">
+                    <a href="http://www.thoughtflow.community/post/">
+                        Read more
+                    </a>
+                </p>
+            </div>
+            <footer class="article-footer">
+    <a data-url="http://www.thoughtflow.community/post/" data-id="" class="article-share-link">
+        <i class="fa fa-share"></i>
+        Share
+    </a>
+    
+    <a href="http://www.thoughtflow.community/post/#disqus_thread" class="article-comment-link">
         Comments
     </a>
     
@@ -839,6 +1112,23 @@ Thoughtflow is a combination of workflow capture (inputs to outputs), provenance
     </h3>
     <div class="widget">
         <ul id="recent-post">
+            
+            <li>
+                <div class="item-thumbnail">
+                    <a href="http://www.thoughtflow.community/2017/04/04/getting-started-with-thoughtflow" class="thumbnail">
+                    
+                        <span class="thumbnail-image thumbnail-none"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    <p class="item-title"><a href="http://www.thoughtflow.community/2017/04/04/getting-started-with-thoughtflow" class="title">Getting started with Thoughtflow</a></p>
+                    <p class="item-date">
+                        <time datetime="2017-04-04 14:30:00 &#43;0000 UTC" itemprop="datePublished">2017-04-04</time>
+                    </p>
+                </div>
+            </li>
             
             <li>
                 <div class="item-thumbnail">
@@ -942,7 +1232,15 @@ Thoughtflow is a combination of workflow capture (inputs to outputs), provenance
                 <a class="category-list-link" href="http://www.thoughtflow.community/tags/blog">
                     blog
                 </a>
-                <span class="category-list-count">4</span>
+                <span class="category-list-count">5</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="http://www.thoughtflow.community/tags/demo">
+                    demo
+                </a>
+                <span class="category-list-count">1</span>
             </li>
             
             <li class="category-list-item">
@@ -963,6 +1261,14 @@ Thoughtflow is a combination of workflow capture (inputs to outputs), provenance
             
             <li class="category-list-item">
                 
+                <a class="category-list-link" href="http://www.thoughtflow.community/tags/gui">
+                    gui
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
+            
+            <li class="category-list-item">
+                
                 <a class="category-list-link" href="http://www.thoughtflow.community/tags/interest">
                     interest
                 </a>
@@ -975,6 +1281,14 @@ Thoughtflow is a combination of workflow capture (inputs to outputs), provenance
                     kickoff
                 </a>
                 <span class="category-list-count">3</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="http://www.thoughtflow.community/tags/start">
+                    start
+                </a>
+                <span class="category-list-count">1</span>
             </li>
             
         </ul>
@@ -1000,16 +1314,25 @@ Thoughtflow is a combination of workflow capture (inputs to outputs), provenance
         <a href="http://www.thoughtflow.community/tags/blog" style="font-size: 12px;">blog</a>
         
         
+        <a href="http://www.thoughtflow.community/tags/demo" style="font-size: 12px;">demo</a>
+        
+        
         <a href="http://www.thoughtflow.community/tags/documents" style="font-size: 12px;">documents</a>
         
         
         <a href="http://www.thoughtflow.community/tags/faq" style="font-size: 12px;">faq</a>
         
         
+        <a href="http://www.thoughtflow.community/tags/gui" style="font-size: 12px;">gui</a>
+        
+        
         <a href="http://www.thoughtflow.community/tags/interest" style="font-size: 12px;">interest</a>
         
         
         <a href="http://www.thoughtflow.community/tags/kickoff" style="font-size: 12px;">kickoff</a>
+        
+        
+        <a href="http://www.thoughtflow.community/tags/start" style="font-size: 12px;">start</a>
         
     </div>
 </div>
@@ -1038,7 +1361,7 @@ Thoughtflow is a combination of workflow capture (inputs to outputs), provenance
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
 ga('create', 'UA-91241151-1', 'auto');
 ga('send', 'pageview');
